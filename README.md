@@ -119,8 +119,8 @@ jarvis-local-backend/ │ ├── app.py ├── requirements.txt ├── 
 
 1. **Clone the repo and install dependencies:**
     ```bash
-    git clone https://github.com/your-username/jarvis-local-backend.git
-    cd jarvis-local-backend
+    git clone https://github.com/your-username/jarvis-cloud-backend.git
+    cd jarvis-cloud-backend
     python3 -m venv venv
     source venv/bin/activate
     ./venv/bin/python3 -m pip install -r requirements.txt
